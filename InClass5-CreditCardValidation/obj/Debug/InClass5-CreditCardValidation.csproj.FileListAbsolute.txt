@@ -1,0 +1,8 @@
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\obj\Debug\InClass5-CreditCardValidation.csproj.AssemblyReference.cache
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\obj\Debug\InClass5-CreditCardValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\obj\Debug\InClass5-CreditCardValidation.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\bin\Debug\InClass5-CreditCardValidation.exe.config
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\bin\Debug\InClass5-CreditCardValidation.exe
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\bin\Debug\InClass5-CreditCardValidation.pdb
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\obj\Debug\InClass5-CreditCardValidation.exe
+C:\Users\jordan\Documents\GitHub\InClass5-PT2\InClass5-CreditCardValidation\obj\Debug\InClass5-CreditCardValidation.pdb
